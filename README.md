@@ -124,10 +124,7 @@ int main() {
 ```
 ## OUTPUT:
 
-
-
-
-
+![Screenshot 2025-04-29 154451](https://github.com/user-attachments/assets/62d62277-f758-4eaf-8928-ceab93f10a0f)
 
 
 
